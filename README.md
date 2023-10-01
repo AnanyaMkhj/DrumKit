@@ -1,2 +1,2 @@
 # DrumKit
-Created a Drum Kit using HTML, CSS and JavaScript. 
+Created a Drum Kit using html, css and JavaScript. 
